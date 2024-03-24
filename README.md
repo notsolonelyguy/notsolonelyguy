@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohum Dhar</h1>
 <h3 align="center">A Data Sorcerer crafting insights with code and constantly stirring the pot of curiosity</h3>
-<img align=“right” alt=“Coding” width=“400” src= “https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif”
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notsolonelyguy&label=Profile%20views&color=0e75b6&style=flat" alt="notsolonelyguy" /> </p>
 
