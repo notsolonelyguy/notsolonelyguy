@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohum Dhar</h1>
-<h3 align="center">A Data Sorcerer crafting insights with code and constantly stirring the pot of curiosity</h3>
+<h3 align="center">A Data Sorcerer crafting insights and constantly stirring the pot of curiosity</h3>
 
 <p align="left"> <a href="https://twitter.com/notsolonelyguy" target="blank"><img src="https://img.shields.io/twitter/follow/notsolonelyguy?logo=twitter&style=for-the-badge" alt="notsolonelyguy" /></a> </p>
 
